@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "45818997-1A38-4CE4-B2E0-CCA4D82CFA72",
+  "do_objectID": "A88F5861-7F49-475D-91B2-EDF7FB6D2A32",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5E7208E6-57FC-4AF4-AD11-E2E4CFD31EF5",
+  "sharedStyleID": "D8DFF549-0773-4D6A-8142-C859CF2F7F9E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "47A47E26-C7F8-4A88-8EBA-15CCEFC713B2",
+    "do_objectID": "836C218D-B468-4413-9E90-B14FBF75E8A6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -174,9 +174,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6000000238418579,
-          "green": 0.3960784375667572,
-          "red": 0.09019608050584793
+          "blue": 0.996078431372549,
+          "green": 0.9529411764705882,
+          "red": 0.8862745098039215
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

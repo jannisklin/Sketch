@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AA3A64E7-9213-4D8B-BEF7-FC0D2D891C05",
+  "do_objectID": "4075D84C-0C6F-4ECB-A3B7-DC37343493D1",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 170,
-    "x": 35,
-    "y": 35
+    "height": 55,
+    "width": 60,
+    "x": 90.23076923076906,
+    "y": 30
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -49,22 +49,32 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{0.99999999999999978, 0}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{0.99999999999999978, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0.99999999999999978, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.49999999999999989, 1}",
+      "curveFrom": "{0.99999999999999978, 1}",
       "curveMode": 1,
-      "curveTo": "{0.49999999999999989, 1}",
+      "curveTo": "{0.99999999999999978, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.49999999999999989, 1}"
+      "point": "{0.99999999999999978, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -156,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8EFD36A3-D27E-4057-89D9-29BA153C45FE",
+    "do_objectID": "35AC747C-6B00-4EBC-9516-2A937D8DC9BF",
     "endMarkerType": 0,
     "fills": [
       {

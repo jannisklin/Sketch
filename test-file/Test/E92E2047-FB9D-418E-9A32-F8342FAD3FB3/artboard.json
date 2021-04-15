@@ -57,39 +57,35 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "AA3A64E7-9213-4D8B-BEF7-FC0D2D891C05"
+      "id": "FB845221-6BE8-427A-A431-E982958903E5"
     },
     {
       "class": "rectangle",
-      "id": "D6F225E9-3B28-445E-AD3C-020C161A6EA1"
+      "id": "4075D84C-0C6F-4ECB-A3B7-DC37343493D1"
     },
     {
       "class": "rectangle",
-      "id": "29056326-4E2B-4BDB-920A-51AD58AF089B"
+      "id": "4371EFDF-12AD-44EE-A7D6-4C59A6944A88"
     },
     {
       "class": "rectangle",
-      "id": "45818997-1A38-4CE4-B2E0-CCA4D82CFA72"
+      "id": "A88F5861-7F49-475D-91B2-EDF7FB6D2A32"
     },
     {
       "class": "rectangle",
-      "id": "EAA3E4CA-CD25-40AF-96AF-6081CF5FCFEA"
-    },
-    {
-      "class": "rectangle",
-      "id": "C119483E-3FC9-4E72-A22A-929C6FD5FF2C"
-    },
-    {
-      "class": "rectangle",
-      "id": "E0BFD521-4360-4A1F-88F7-5DC7DA64F767"
+      "id": "7A487BD6-AE42-4B52-ABE6-F6726C36DBD2"
     },
     {
       "class": "shapePath",
-      "id": "CAC83D6F-B672-4676-BF38-7A8A5F0D093A"
+      "id": "46D6F5D1-DD51-4BB3-BE42-94B3F0BAFBC0"
     },
     {
       "class": "shapePath",
-      "id": "37F9225D-550E-4B04-A2B2-76B0AE9D71C7"
+      "id": "494FA8B2-BEF3-41BD-BCC8-8631CE462F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "039EBDF8-CB7A-488A-822E-6D54DBE03934"
     }
   ],
   "layout": {
